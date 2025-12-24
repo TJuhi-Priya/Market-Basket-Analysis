@@ -5,6 +5,3 @@ Check App [here](https://share.streamlit.io/yogeshkumar22/market_basket_analysis
 
 Download dataset [here](https://github.com/yogeshkumar22/market_basket_analysis_streamlit_app/blob/main/Market_Basket_Optimisation.csv)
 
-## A glimpse of the web app:
-
-![GIF](mba_streamlitt.gif)
